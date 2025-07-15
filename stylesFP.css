@@ -1440,6 +1440,7 @@ footer {
     }
     .values__list {
         margin: 0 auto;
+        align-items: center;
     }
     .value:nth-of-type(1) {
         margin-right: 0px;
