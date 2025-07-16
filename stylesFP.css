@@ -190,6 +190,7 @@ nav {
 .nav__link--login {
     margin-left: 20px;
     padding: 10px 32px;
+    font-weight: 600;
 }
 
 .nav__logo {
@@ -217,6 +218,9 @@ nav {
     background: transparent;
     border: none;
     transition: all 300ms ease;
+    font-size: 20px;
+    color: #243e63;
+    font-weight: 400;
 }
 .footer__social--link svg {
     height: 16px;
